@@ -3,3 +3,4 @@ to jest druga linia
 trzecia linia
 4
 5
+to jest 6 linia
