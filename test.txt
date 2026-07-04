@@ -4,3 +4,4 @@ trzecia linia
 4
 5
 to jest 6 linia
+7ma linia
