@@ -3,3 +3,4 @@ to jest druga linia
 trzecia linia
 4
 5
+#dodanie tekstu do 6 linii
